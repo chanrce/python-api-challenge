@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Asking gitignore to ignore the file if it's pushed
+config.py
